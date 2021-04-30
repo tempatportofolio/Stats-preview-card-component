@@ -122,7 +122,7 @@ body {
 
     .card {
         width: 320px;
-        margin: 60px 0;
+        margin: 60px auto;
         height: 750px;
     }
     .card-grid {
@@ -179,10 +179,7 @@ body {
     }
 
     .attribution {
-        margin-top: 0px;
-        margin-right: auto;
-        margin-left: auto;
-        width: 230px;
+        display: none;
     }
 }
 
